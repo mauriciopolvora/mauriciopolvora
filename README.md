@@ -5,6 +5,5 @@
 
   ---
 
-- 🔭 I’m currently working on Full Stack Web Dev, using Spring Boot and Angular
-- 🌱 I’m currently learning Python and AI theory
+- 🔭 Full Stack Web Dev, using Spring Boot/React/Angular
 
