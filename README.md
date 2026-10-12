@@ -5,5 +5,5 @@
 
   ---
 
-- 🔭 Full Stack Web Dev, using Spring Boot/React/Angular
+- trying to not lose my mind in this era fr
 
